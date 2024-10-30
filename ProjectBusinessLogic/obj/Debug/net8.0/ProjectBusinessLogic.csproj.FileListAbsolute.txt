@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\bin\Debug\net8.0\ProjectBusinessLogic.deps.json
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\bin\Debug\net8.0\ProjectBusinessLogic.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\bin\Debug\net8.0\ProjectBusinessLogic.pdb
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\bin\Debug\net8.0\ProjectDataAccsesLayer.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\bin\Debug\net8.0\ProjectEntity.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\bin\Debug\net8.0\ProjectDataAccsesLayer.pdb
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\bin\Debug\net8.0\ProjectEntity.pdb
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\obj\Debug\net8.0\ProjectBusinessLogic.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\obj\Debug\net8.0\ProjectBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\obj\Debug\net8.0\ProjectBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\obj\Debug\net8.0\ProjectBusinessLogic.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\obj\Debug\net8.0\ProjectBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\obj\Debug\net8.0\ProjectBusinessLogic.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\obj\Debug\net8.0\ProjectBusinessLogic.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\obj\Debug\net8.0\refint\ProjectBusinessLogic.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\obj\Debug\net8.0\ProjectBusinessLogic.pdb
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectBusinessLogic\obj\Debug\net8.0\ref\ProjectBusinessLogic.dll

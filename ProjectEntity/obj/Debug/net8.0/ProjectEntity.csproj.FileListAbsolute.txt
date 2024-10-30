@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectEntity\bin\Debug\net8.0\ProjectEntity.deps.json
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectEntity\bin\Debug\net8.0\ProjectEntity.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectEntity\bin\Debug\net8.0\ProjectEntity.pdb
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectEntity\obj\Debug\net8.0\ProjectEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectEntity\obj\Debug\net8.0\ProjectEntity.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectEntity\obj\Debug\net8.0\ProjectEntity.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectEntity\obj\Debug\net8.0\ProjectEntity.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectEntity\obj\Debug\net8.0\ProjectEntity.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectEntity\obj\Debug\net8.0\refint\ProjectEntity.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectEntity\obj\Debug\net8.0\ProjectEntity.pdb
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectEntity\obj\Debug\net8.0\ref\ProjectEntity.dll

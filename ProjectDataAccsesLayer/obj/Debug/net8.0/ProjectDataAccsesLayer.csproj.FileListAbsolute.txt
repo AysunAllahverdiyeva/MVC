@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\bin\Debug\net8.0\ProjectDataAccsesLayer.deps.json
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\bin\Debug\net8.0\ProjectDataAccsesLayer.runtimeconfig.json
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\bin\Debug\net8.0\ProjectDataAccsesLayer.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\bin\Debug\net8.0\ProjectDataAccsesLayer.pdb
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\bin\Debug\net8.0\ProjectEntity.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\bin\Debug\net8.0\ProjectEntity.pdb
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\obj\Debug\net8.0\ProjectDataAccsesLayer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\obj\Debug\net8.0\ProjectDataAccsesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\obj\Debug\net8.0\ProjectDataAccsesLayer.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\obj\Debug\net8.0\ProjectDataAccsesLayer.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\obj\Debug\net8.0\ProjectDataAccsesLayer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\obj\Debug\net8.0\ProjectDataAccsesLayer.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\obj\Debug\net8.0\ProjectDataAccsesLayer.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\obj\Debug\net8.0\refint\ProjectDataAccsesLayer.dll
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\obj\Debug\net8.0\ProjectDataAccsesLayer.pdb
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\obj\Debug\net8.0\ProjectDataAccsesLayer.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\FootWear.App\ProjectDataAccsesLayer\obj\Debug\net8.0\ref\ProjectDataAccsesLayer.dll
